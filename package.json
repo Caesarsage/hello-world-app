@@ -1,0 +1,17 @@
+{
+  "name": "investanigeria",
+  "version": "1.0.0",
+  "main": "mains.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "time-in-words": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node mains.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Destiny",
+  "license": "ISC",
+  "description": ""
+}
